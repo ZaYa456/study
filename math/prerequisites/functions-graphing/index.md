@@ -125,7 +125,7 @@ Describe the transformations applied to the parent function $$f(x) = x^2$$ to ob
 1. **Identify horizontal shift:** $$(x + 4)$$ indicates $$h = -4$$, so the graph shifts **left 4 units**.
 2. **Identify vertical scaling and reflection:** $$a = -\frac{1}{2}$$:
    - The negative sign indicates a **reflection across the x-axis** (opens downward).
-   - $$\\lvert a \rvert = \frac{1}{2}$$ indicates a **vertical compression by a factor of $$\frac{1}{2}$$**.
+   - $$`|a|` = \frac{1}{2}$$ indicates a **vertical compression by a factor of $$\frac{1}{2}$$**.
 3. **Identify vertical shift:** $$k = -3$$, so the graph shifts **down 3 units**.
 4. **Determine vertex:** $$(h, k) = (-4, -3)$$.
 
