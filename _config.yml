@@ -8,8 +8,4 @@ plugins:
 # Sidebar search
 search_enabled: true
 
-# Lets Markdown pass LaTeX through untouched so MathJax can render it
-kramdown:
-  math_engine: mathjax
-
 nav_sort: case_insensitive
