@@ -113,8 +113,8 @@ Function transformations alter the graph of a parent function $$f(x)$$ through s
 - **Vertical Shift ($$k$$):** $$+k$$ shifts the graph up $$k$$ units; $$-k$$ shifts it down $$k$$ units.
 - **Horizontal Shift ($$h$$):** $$f(x - h)$$ shifts the graph right $$h$$ units; $$f(x + h)$$ shifts it left $$h$$ units.
 - **Vertical Stretch / Compression ($$a$$):**
-  - \lVert a \rVert > 1: vertically stretches the graph by a factor of $$\lVert a \rVert$$ (steeper/narrower).
-  - $$0 < \lVert a \rVert < 1$$: vertically compresses the graph by a factor of $\lVert a \rVert$ (flatter/wider).
+  - $$\left| a \lright| > 1$$: vertically stretches the graph by a factor of $$\left| a \lright|$$ (steeper/narrower).
+  - $$0 < \lVert a \rVert < 1$$: vertically compresses the graph by a factor of $$\lVert a \rVert$$ (flatter/wider).
 - **Reflection:** if $$a < 0$$, the graph is reflected across the x-axis.
 - **Vertex Form of a Parabola:** for $$f(x) = a(x - h)^2 + k$$, the vertex is located at the point $$(h, k)$$.
 
