@@ -21,7 +21,10 @@ Output ONLY a Jekyll Markdown page, formatted exactly like this:
     [Content here]
 
 Rules:
-- Use \( ... \) for inline math and $$ ... $$ for display (block) equations.
+- Use $$ ... $$ for ALL math, both inline (embedded in a sentence) and
+  display (on its own line). Do NOT use \( \) or \[ \] directly in the
+  Markdown — Markdown's backslash-escaping breaks them. Kramdown detects
+  inline vs. display automatically based on context.
 - For Chemistry only: use \ce{...} inside $$ ... $$ for reactions/formulas
   (e.g. $$\ce{2H2 + O2 -> 2H2O}$$).
 - Do not use any raw HTML tags.
