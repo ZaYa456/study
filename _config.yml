@@ -1,5 +1,7 @@
 title: Exam Prep Notes
 description: Study notes for Math, Physics, Chemistry, and Biology
+url: "https://zaya456.github.io"
+baseurl: "/study"
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
