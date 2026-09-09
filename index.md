@@ -9,6 +9,6 @@ nav_order: 1
 Study notes for the college entrance exam, organized by subject.
 
 - [Math]({{ '/study/math/' | relative_url }})
-- [Physics]({{ '/physics/' | relative_url }})
-- [Chemistry]({{ '/chemistry/' | relative_url }})
-- [Biology]({{ '/biology/' | relative_url }})
+- [Physics]({{ '/study/physics/' | relative_url }})
+- [Chemistry]({{ '/study/chemistry/' | relative_url }})
+- [Biology]({{ '/study/biology/' | relative_url }})
