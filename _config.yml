@@ -1,0 +1,15 @@
+title: Exam Prep Notes
+description: Study notes for Math, Physics, Chemistry, and Biology
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+# Sidebar search
+search_enabled: true
+
+# Lets Markdown pass LaTeX through untouched so MathJax can render it
+kramdown:
+  math_engine: mathjax
+
+nav_sort: case_insensitive
