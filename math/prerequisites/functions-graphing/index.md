@@ -113,8 +113,8 @@ Function transformations alter the graph of a parent function $$f(x)$$ through s
 - **Vertical Shift ($$k$$):** $$+k$$ shifts the graph up $$k$$ units; $$-k$$ shifts it down $$k$$ units.
 - **Horizontal Shift ($$h$$):** $$f(x - h)$$ shifts the graph right $$h$$ units; $$f(x + h)$$ shifts it left $$h$$ units.
 - **Vertical Stretch / Compression ($$a$$):**
-  - |a| > 1: vertically stretches the graph by a factor of $$|a|$$ (steeper/narrower).
-  - $0 < |a| < 1$: vertically compresses the graph by a factor of $|a|$ (flatter/wider).
+  - lVert a \rVert > 1: vertically stretches the graph by a factor of $$lVert a \rVert$$ (steeper/narrower).
+  - $$0 < lVert a \rVert < 1$$: vertically compresses the graph by a factor of $lVert a \rVert$ (flatter/wider).
 - **Reflection:** if $$a < 0$$, the graph is reflected across the x-axis.
 - **Vertex Form of a Parabola:** for $$f(x) = a(x - h)^2 + k$$, the vertex is located at the point $$(h, k)$$.
 
@@ -125,7 +125,7 @@ Describe the transformations applied to the parent function $$f(x) = x^2$$ to ob
 1. **Identify horizontal shift:** $$(x + 4)$$ indicates $$h = -4$$, so the graph shifts **left 4 units**.
 2. **Identify vertical scaling and reflection:** $$a = -\frac{1}{2}$$:
    - The negative sign indicates a **reflection across the x-axis** (opens downward).
-   - $$|a| = \frac{1}{2}$$ indicates a **vertical compression by a factor of $$\frac{1}{2}$$**.
+   - $$\lVert a \rVert = \frac{1}{2}$$ indicates a **vertical compression by a factor of $$\frac{1}{2}$$**.
 3. **Identify vertical shift:** $$k = -3$$, so the graph shifts **down 3 units**.
 4. **Determine vertex:** $$(h, k) = (-4, -3)$$.
 
@@ -143,7 +143,7 @@ $$g(x) = 3(x - 2)^2 + 7$$
 
 1. Identify transformations relative to $$f(x) = x^2$$:
    - **Horizontal shift:** $$(x - 2)$$ indicates $$h = 2$$, shifting the graph **right 2 units**.
-   - **Vertical stretch:** $$a = 3$$ ($$|a| > 1$$), stretching the graph **vertically by a factor of 3**.
+   - **Vertical stretch:** $$a = 3$$ ($$lVert a \rVert > 1$$), stretching the graph **vertically by a factor of 3**.
    - **Vertical shift:** $$k = 7$$, shifting the graph **up 7 units**.
 2. State the vertex $$(h, k)$$:
 
