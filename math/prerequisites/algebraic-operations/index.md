@@ -19,6 +19,15 @@ To isolate a variable $$x$$, apply inverse operations in reverse order of operat
 - **Isolate variable terms:** add or subtract variable terms so that $$x$$ appears on only one side.
 - **Solve:** undo multiplication or division to solve for $$x$$.
 
+**Note: Finding the LCD**
+
+To find the least common denominator (LCD):
+
+1. Find the LCM (least common multiple) of the denominators.
+2. That LCM is the LCD.
+
+*Example:* for $$\frac{1}{4} + \frac{1}{6}$$ — multiples of 4: 4, 8, 12; multiples of 6: 6, 12. So the LCD is 12.
+
 ### Worked Reference Example
 
 Solve for $$x$$:
